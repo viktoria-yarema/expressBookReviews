@@ -1,11 +1,10 @@
 # Node.js
 node_modules/
-dist/
-build/
-
-# Logs
-logs
-*.log
 
 # Environment Variables
 .env
+
+# Other common ignores
+.DS_Store
+.idea/
+.vscode/
